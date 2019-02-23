@@ -1,0 +1,12 @@
+.first{
+    background-color: lightblue;
+  }
+#icon{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+#Subtit{
+    margin: 5%;
+  }

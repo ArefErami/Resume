@@ -1,0 +1,30 @@
+.navigation ul,
+li {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  position: fixed;
+}
+#magic {
+  max-width: 25px;
+  top: 2%;
+  left: 2%;
+}
+#about {
+  top: 4%;
+  right: 12%;
+  /* color: this.state.color; */
+}
+#skill {
+  top: 4%;
+  right: 4%;
+}
+#about:hover {
+  font-style: italic;
+}
+#skill:hover {
+  font-style: italic;
+}
+#magic:hover {
+  transform: translate(5px) rotate(40deg);
+}

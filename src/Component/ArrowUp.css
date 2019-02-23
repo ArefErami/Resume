@@ -1,0 +1,10 @@
+.arrowUp{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    transform: translateY(100%);
+  }
+  #up{
+      max-width: 30px;
+  }

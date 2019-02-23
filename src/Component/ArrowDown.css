@@ -1,0 +1,11 @@
+.arrowDown{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    transform: translateY(-70px);
+    margin-bottom: -34px;
+  }
+  #down{
+      max-width: 30px;
+  }
